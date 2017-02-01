@@ -20,6 +20,11 @@
 	<version>0.7.3</version>
  </dependency>
  <!-- https://mvnrepository.com/artifact/com.googlecode.efficient-java-matrix-library/ejml -->
+	  +<dependency>
+ +    <groupId>com.googlecode.efficient-java-matrix-library</groupId>
+ +    <artifactId>ejml</artifactId>
+ +    <version>0.25</version>
+ +</dependency>
 <dependency>
     <groupId>com.googlecode.efficient-java-matrix-library</groupId>
     <artifactId>ejml</artifactId>
